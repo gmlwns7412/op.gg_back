@@ -1,0 +1,108 @@
+#header{
+    background-color:royalblue;
+    top:0;
+    left: 200px;
+    width: 100%;
+    height: 50px;
+    border: 2px solid steelblue;
+    z-index: 100;
+ 
+    color:seashell;
+    
+    
+}
+html, body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+#body{
+    width: 100%;
+    min-height: 1080px;
+    background-color:royalblue;
+    text-align: center;
+}
+
+#main-image{
+    width: 15%;
+    height: 17%;
+    padding-top: 50px;
+}
+
+
+
+
+.no_underline {
+    text-decoration: none;
+    color:whitesmoke;
+    margin: 6px;
+    }
+.no_underline1 {
+        text-decoration: none;
+        color: black;
+        margin: 6px;
+     
+        }
+
+.cmu-box{
+    position: absolute;
+    width: 1350px;
+    height: 20px;
+    background-color: white;
+    text-align:left;
+    font-size:7px;
+    top:90%;
+    left:25%; 
+    margin: -150px 0px 0px -200px;
+   padding: 15px;
+   padding-bottom:50%;
+}
+
+.right-cmubox{
+    text-align:right
+}
+.leftcmubox-1{
+    
+        list-style: none;
+        padding-left: 0px;
+    
+    
+}
+.rightcmubox-1{
+    
+    list-style: none;
+    padding-left: 0px;
+
+
+}
+.list-number{
+    text-align:left;
+}
+.title-1{
+    text-align: right;
+}
+.no_underline2{
+    text-decoration: none;
+    color:white;
+    margin:15px;
+    font-size:12px;
+    padding:3px;
+}
+.titlestlye{
+    background-color: white;
+}
+
+.no_underline3{
+    text-decoration: none;
+    color:white;
+    margin:3px;
+}
+
+input.button-1{
+    background: url( "15.png" ) no-repeat;
+        border: none;
+        width: 32px;
+        height: 32px;
+        cursor: pointer;
+}
